@@ -27,8 +27,7 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=ALPHONSE-3-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### 📫 Connect With Me:
 <a href="https://www.linkedin.com/in/alphonse-maria-martin-072587331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
