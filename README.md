@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/ALPHONSE-3-AI/ALPHONSE-3-AI/output/snake.svg" alt="Snake animation" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amalkphilip&theme=react-dark&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALPHONSE-3-AI&theme=react-dark&area=true&hide_border=true"/>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -31,7 +31,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ALPHONSE-3-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📫 Connect With Me:
-<a href="https://www.linkedin.com/in/amal-k-philip-485863343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alphonse-maria-martin-072587331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:alphonsemairamartin3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
